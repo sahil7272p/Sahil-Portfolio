@@ -1,7 +1,7 @@
 # 🌐🚀 Personal Portfolio Website
 
 ## 👋 Hello There!  
-I'm Sahil Marwal, a passionate 💻 **Java Developer & Web Developer from India 🇮🇳.  
+I'm Sahil Marwal, a passionate 💻 Java Developer & Web Developer from India 🇮🇳.  
 This is my personal portfolio website where I showcase who I am, my skills, projects, certifications, and more — all in one place!
 
 ---
